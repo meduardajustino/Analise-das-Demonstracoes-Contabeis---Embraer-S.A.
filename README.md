@@ -14,3 +14,7 @@ Neste projeto, iremos realizar uma análise detalhada das principais demonstraç
 **Balanço Patrimonial (Ativo, Passivo e Patrimônio Líquido):** Para ter uma visão completa da posição financeira da empresa em um momento específico, examinando seus bens e direitos (Ativo), suas obrigações (Passivo) e o capital próprio (Patrimônio Líquido).
 
 Esta análise conjunta nos permitirá obter uma visão holística da saúde financeira e da estratégia da Embraer.
+
+<p align="center">
+Desenvolvido por Maria Eduarda Justino :purple_heart:  
+</p>
